@@ -34,4 +34,4 @@ Features:
 - Visualizes hourly viewing habits
 
 Sample Output:
-![Watch Activity by Hour](watch_activity_by_hour.png)
+![Watch Activity by Hour](Figure_1.png)
